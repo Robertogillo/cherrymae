@@ -74,7 +74,7 @@ function Home() {
               <Col xs={12} className="bg-secondary mt-5 overflow-hidden position-relative">
                 <div className="p-1 position-absolute top-15 start-15 btn btn-center">
                   <Nav.Link as={NavLink} to="https://chemae12.github.io/delitran.github..io/" target="_blank" rel="noopener noreferrer">
-                    <button className="btn btn-outline-warning text-white custom-button"  style={{textDecoration:'none' }}>
+                    <button className="btn btn-outline-secondary text-white custom-button"  style={{textDecoration:'none' }}>
                       Sample Website
                     </button>
                   </Nav.Link>

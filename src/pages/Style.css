@@ -234,11 +234,7 @@ font-size: 12px;
     width: 100%;
     margin-bottom: 1rem;
   }
-  *(
-  text-align: justify;
   
-  )
-
   .tech {
     margin-top: 1rem;
     padding: 1rem;

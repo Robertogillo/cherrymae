@@ -17,7 +17,7 @@ function About() {
   return (
     <Container className="px-lg-8 mx-lg-5">
       <Container className="px-4">
-        <h1 className="abouts">About</h1>
+        <h3 className="abouts">About</h3>
         <h3 className="fw-bold">Hello! I'm Cherry Mae P. Delitran aspiring Data Encoding Specialist</h3>
         <hr></hr>
         <br></br>

@@ -24,7 +24,7 @@ function About() {
 
         <div className="row">
           <div className="col-6">
-            <p className="del">
+            <p className="del text-align:justify">
               I’m a passionate and dedicated IT student. Currently
               pursuing a Bachelor's degree in Information Technology at Central
               Philippines State University, I've gained hands-on experience

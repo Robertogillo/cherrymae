@@ -18,7 +18,7 @@ function AppNavbar() {
   );
 
   return (
-    <Navbar bg="light" expand="lg" className="py-lg-4 px-lg-1">
+    <Navbar bg="light" className="py-4 px-1">
       <Container className="py-5 px-5 ms-auto">
         <Navbar.Brand as={NavLink} to="/">
           <h5 className="fw-bold mb-0 pb-0">Delitran, Cherry Mae P.</h5>
